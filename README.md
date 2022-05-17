@@ -14,7 +14,7 @@
  - DaisyUI
 ## Result
 Github link - https://github.com/Nghia314/My-Portfolio
-Deployed link -
+Deployed link - https://nghia314.github.io/My-Portfolio/
 <img width="1440" alt="Screen Shot 2022-05-16 at 9 05 29 PM" src="https://user-images.githubusercontent.com/100381618/168726727-475f9c31-e9cc-4303-8273-e96209288394.png">
 
 ## Code snippet
